@@ -1,0 +1,11 @@
+json-repair
+numexpr
+openai
+pandas
+pydantic
+python-dotenv
+rich
+ipykernel
+ipywidgets
+gradio
+streamlit

@@ -1,0 +1,182 @@
+{
+    "vacation_info": {
+        "travelers": [
+            {
+                "name": "Yuri",
+                "age": 30,
+                "interests": [
+                    "tennis",
+                    "cooking",
+                    "comedy",
+                    "technology"
+                ]
+            },
+            {
+                "name": "Hiro",
+                "age": 25,
+                "interests": [
+                    "reading",
+                    "music",
+                    "theatre",
+                    "art"
+                ]
+            }
+        ],
+        "destination": "AgentsVille",
+        "date_of_arrival": "2025-06-10",
+        "date_of_departure": "2025-06-12",
+        "budget": 130
+    },
+    "itinerary": {
+        "city": "AgentsVille",
+        "start_date": "2025-06-10",
+        "end_date": "2025-06-12",
+        "total_cost": 108,
+        "itinerary_days": [
+            {
+                "date": "2025-06-10",
+                "weather": {
+                    "temperature": 31.0,
+                    "temperature_unit": "Celsius",
+                    "condition": "clear"
+                },
+                "activity_recommendations": [
+                    {
+                        "activity": {
+                            "activity_id": "event-2025-06-10-1",
+                            "name": "Serve & Savor: Tennis and Taste Luncheon",
+                            "start_time": "2025-06-10 12:00:00",
+                            "end_time": "2025-06-10 13:30:00",
+                            "location": "The Grand Racquet Terrace, AgentsVille",
+                            "description": "Join us for 'Serve & Savor,' the ultimate crossover event for cooking and tennis enthusiasts in AgentsVille! Kick off your lunch hour with a friendly round of doubles on our outdoor courts, then unwind with a hands-on cooking workshop led by a local chef, where you'll prepare and enjoy delicious energy-boosting recipes. Whether you come for the sport or the flavors, this energizing luncheon celebrates both passions in a lively outdoor setting. Ideal for anyone who loves to play, cook, or simply savor fresh food and fun!",
+                            "price": 20,
+                            "related_interests": [
+                                "cooking",
+                                "tennis"
+                            ]
+                        },
+                        "reasons_for_recommendation": [
+                            "Outdoor event matching Yuri\u2019s tennis and cooking interests",
+                            "Great way to enjoy clear weather outside"
+                        ]
+                    },
+                    {
+                        "activity": {
+                            "activity_id": "event-2025-06-10-2",
+                            "name": "Artful Athletics: Paint & Play Extravaganza",
+                            "start_time": "2025-06-10 15:00:00",
+                            "end_time": "2025-06-10 17:00:00",
+                            "location": "Creative Courts Park, AgentsVille",
+                            "description": "Join us for an exciting afternoon at Creative Courts Park, where the worlds of art and sports collide! At 'Artful Athletics: Paint & Play Extravaganza', you'll participate in collaborative outdoor murals inspired by your favorite sports, and then get moving with fun, friendly sports mini-games. Whether you love painting or playing, this event celebrates creativity, teamwork, and the joy of movement under the open sky. Perfect for art lovers and sports enthusiasts alike\u2014come ready to express yourself and get active! (Event is held outdoors; in case of rain, we move indoors to the Community Gym nearby.)",
+                            "price": 15,
+                            "related_interests": [
+                                "art",
+                                "sports"
+                            ]
+                        },
+                        "reasons_for_recommendation": [
+                            "Outdoor activity aligning with Hiro\u2019s interests in art and sports",
+                            "Utilizes the clear weather for outdoor fun"
+                        ]
+                    }
+                ]
+            },
+            {
+                "date": "2025-06-11",
+                "weather": {
+                    "temperature": 34.0,
+                    "temperature_unit": "Celsius",
+                    "condition": "partly cloudy"
+                },
+                "activity_recommendations": [
+                    {
+                        "activity": {
+                            "activity_id": "event-2025-06-11-2",
+                            "name": "AgentsVille Art & Music Fusion Fest",
+                            "start_time": "2025-06-11 15:00:00",
+                            "end_time": "2025-06-11 17:30:00",
+                            "location": "The Echo Gardens Amphitheater, AgentsVille",
+                            "description": "Immerse yourself in an unforgettable afternoon at the Echo Gardens Amphitheater, where the vibrant worlds of art and music collide! Surrounded by lush gardens under the open sky, enjoy live performances from talented local musicians while exploring an interactive outdoor art gallery featuring works from AgentsVille's creative community. This engaging outdoor event is perfect for art and music enthusiasts who love to be inspired and connect with fellow creatives. Don't miss out on the fusion of melodies and colors in a relaxing, friendly atmosphere!",
+                            "price": 18,
+                            "related_interests": [
+                                "art",
+                                "music"
+                            ]
+                        },
+                        "reasons_for_recommendation": [
+                            "Lovely outdoor event for Hiro\u2019s interests in art and music",
+                            "Suitable for partly cloudy weather"
+                        ]
+                    },
+                    {
+                        "activity": {
+                            "activity_id": "event-2025-06-11-3",
+                            "name": "Palette & Palate: Art Meets Cooking Experience",
+                            "start_time": "2025-06-11 18:30:00",
+                            "end_time": "2025-06-11 20:30:00",
+                            "location": "The Creative Canvas Studio, Artisanal Lane, AgentsVille",
+                            "description": "Immerse yourself in a colorful evening where art and cooking blend together! At 'Palette & Palate,' participants will begin indoors at The Creative Canvas Studio with a guided session to paint their own culinary-inspired masterpiece. Afterwards, a local chef will lead an interactive cooking class, teaching you how to craft vibrant, edible works of art. Whether you're an art enthusiast, a food lover, or both, this creative night is perfect for socializing and expressing yourself through color and flavor! All materials and ingredients are provided. This event is held indoors and welcomes all experience levels in art and cooking.",
+                            "price": 25,
+                            "related_interests": [
+                                "art",
+                                "cooking"
+                            ]
+                        },
+                        "reasons_for_recommendation": [
+                            "Indoor evening event combining Yuri and Hiro\u2019s interests",
+                            "Good complement to outdoor activity earlier in the day"
+                        ]
+                    }
+                ]
+            },
+            {
+                "date": "2025-06-12",
+                "weather": {
+                    "temperature": 28.0,
+                    "temperature_unit": "Celsius",
+                    "condition": "thunderstorm"
+                },
+                "activity_recommendations": [
+                    {
+                        "activity": {
+                            "activity_id": "event-2025-06-12-1",
+                            "name": "Soundtrack Picnic: Lunchtime Movies & Melodies",
+                            "start_time": "2025-06-12 12:00:00",
+                            "end_time": "2025-06-12 13:30:00",
+                            "location": "Starlight Amphitheater, AgentsVille",
+                            "description": "Experience the magic of classic movie scenes paired with live music at the outdoor Starlight Amphitheater! Bring your lunch and relax on the lawn as musicians perform iconic film soundtracks while selected clips light up our open-air screen. Perfect for movie buffs and music lovers alike, this engaging event celebrates both arts in a sunny lunchtime setting. In case of rain, the event will move indoors to the adjacent Harmony Hall. Come for the tunes, stay for the cinematic wonder!",
+                            "price": 15,
+                            "related_interests": [
+                                "movies",
+                                "music"
+                            ]
+                        },
+                        "reasons_for_recommendation": [
+                            "Shows good fit for Hiro\u2019s music interest",
+                            "Has indoor backup due to expected thunderstorm"
+                        ]
+                    },
+                    {
+                        "activity": {
+                            "activity_id": "event-2025-06-12-3",
+                            "name": "Tech & Film Fusion Night",
+                            "start_time": "2025-06-12 19:00:00",
+                            "end_time": "2025-06-12 21:30:00",
+                            "location": "Virtual Reality Theater, Silicon Plaza, AgentsVille",
+                            "description": "Dive into an immersive evening where the magic of movies meets the latest in technology! Join fellow movie buffs and tech enthusiasts for a special screening of cutting-edge sci-fi short films, followed by an interactive panel with local filmmakers and VR technologists. Experience the future of entertainment and discuss how technology is transforming the world of cinema. This exciting, indoor event at the Virtual Reality Theater is perfect for anyone interested in technology and movies.",
+                            "price": 15,
+                            "related_interests": [
+                                "technology",
+                                "movies"
+                            ]
+                        },
+                        "reasons_for_recommendation": [
+                            "Indoor evening event perfect for Yuri\u2019s technology interests",
+                            "Suited for thunderstorm weather"
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+}

@@ -1,0 +1,205 @@
+{
+    "vacation_info": {
+        "travelers": [
+            {
+                "name": "Yuri",
+                "age": 30,
+                "interests": [
+                    "tennis",
+                    "cooking",
+                    "comedy",
+                    "technology"
+                ]
+            },
+            {
+                "name": "Hiro",
+                "age": 25,
+                "interests": [
+                    "reading",
+                    "music",
+                    "theatre",
+                    "art"
+                ]
+            }
+        ],
+        "destination": "AgentsVille",
+        "date_of_arrival": "2025-06-10",
+        "date_of_departure": "2025-06-12",
+        "budget": 130
+    },
+    "itinerary": {
+        "city": "AgentsVille",
+        "start_date": "2025-06-10",
+        "end_date": "2025-06-12",
+        "total_cost": 125,
+        "itinerary_days": [
+            {
+                "date": "2025-06-10",
+                "weather": {
+                    "temperature": 31.0,
+                    "temperature_unit": "Celsius",
+                    "condition": "clear"
+                },
+                "activity_recommendations": [
+                    {
+                        "activity": {
+                            "activity_id": "event-2025-06-10-0",
+                            "name": "FutureTech Breakfast Meet-Up",
+                            "start_time": "2025-06-10 09:00:00",
+                            "end_time": "2025-06-10 11:00:00",
+                            "location": "The Innovation Atrium, Tech District, AgentsVille",
+                            "description": "Join fellow technology enthusiasts for a dynamic morning at the FutureTech Breakfast Meet-Up! Dive into the latest trends in tech, gadget demos, and networking opportunities over coffee and fresh pastries. Held indoors at the spacious Innovation Atrium, this event is perfect for tech lovers eager to exchange ideas and discover new possibilities in a comfortable, modern setting.",
+                            "price": 20,
+                            "related_interests": [
+                                "technology"
+                            ]
+                        },
+                        "reasons_for_recommendation": [
+                            "Matches Yuri's interest in technology",
+                            "Indoor event suitable for clear weather",
+                            "Opportunity to network and learn about latest tech"
+                        ]
+                    },
+                    {
+                        "activity": {
+                            "activity_id": "event-2025-06-10-3",
+                            "name": "AgentsVille Twilight Writing Escape",
+                            "start_time": "2025-06-10 19:00:00",
+                            "end_time": "2025-06-10 21:00:00",
+                            "location": "The Ink Loft, 12 Quill Lane, AgentsVille",
+                            "description": "Join fellow writers for an inspiring evening at The Ink Loft, where words flow as freely as the coffee! This writing-themed event welcomes all\u2014novelists, poets, bloggers, or anyone with a passion for storytelling. Set indoors in AgentsVille's coziest lounge, enjoy writing games, group prompts, and opportunities to read your work aloud. Connect, create, and celebrate the art of writing in this creative indoor haven.",
+                            "price": 15,
+                            "related_interests": [
+                                "writing",
+                                "reading",
+                                "art"
+                            ]
+                        },
+                        "reasons_for_recommendation": [
+                            "Matches Hiro's interests in reading, writing, and art",
+                            "Indoor evening event perfect to relax after a day of activities"
+                        ]
+                    }
+                ]
+            },
+            {
+                "date": "2025-06-11",
+                "weather": {
+                    "temperature": 34.0,
+                    "temperature_unit": "Celsius",
+                    "condition": "partly cloudy"
+                },
+                "activity_recommendations": [
+                    {
+                        "activity": {
+                            "activity_id": "event-2025-06-11-0",
+                            "name": "Morning Groove Dance Party",
+                            "start_time": "2025-06-11 09:00:00",
+                            "end_time": "2025-06-11 10:30:00",
+                            "location": "Rhythm Hall, Center Plaza, AgentsVille",
+                            "description": "Start your day with energy and joy at the Morning Groove Dance Party! This lively event welcomes dancers of all levels to join a vibrant indoor session filled with upbeat music and fun routines. Whether you love modern pop, Latin beats, or classic disco, our dance instructors will guide you to move and groove. Connect with fellow dance lovers in the colorful atmosphere of Rhythm Hall. Perfect for fans of dancing, music, and fitness. Let the rhythm move you! (Indoor event.)",
+                            "price": 15,
+                            "related_interests": [
+                                "dancing",
+                                "music",
+                                "fitness"
+                            ]
+                        },
+                        "reasons_for_recommendation": [
+                            "Fits Hiro's music interest and promotes fitness",
+                            "Indoor event fits weather and indoor activity preferences"
+                        ]
+                    },
+                    {
+                        "activity": {
+                            "activity_id": "event-2025-06-11-1",
+                            "name": "Tech Lunch & Learn: AI Frontiers",
+                            "start_time": "2025-06-11 12:00:00",
+                            "end_time": "2025-06-11 13:30:00",
+                            "location": "The Digital Atrium, AgentsVille",
+                            "description": "Join fellow tech enthusiasts for a dynamic lunchtime event exploring the future of artificial intelligence! Held indoors at The Digital Atrium, this Tech Lunch & Learn features engaging lightning talks, interactive demos, and networking opportunities all centered around technology and innovation. Enjoy light lunch fare as you connect with others passionate about technology, AI, and the digital world. Whether you're a seasoned developer or just curious about tech, this event is for you! Related interests: technology, music (sound tech demos), photography (AI imaging), writing (AI creativity).",
+                            "price": 20,
+                            "related_interests": [
+                                "technology",
+                                "music",
+                                "photography",
+                                "writing"
+                            ]
+                        },
+                        "reasons_for_recommendation": [
+                            "Appeals to Yuri's technology interest and Hiro's music and writing interests",
+                            "Indoor event suitable for partial clouds"
+                        ]
+                    },
+                    {
+                        "activity": {
+                            "activity_id": "event-2025-06-11-3",
+                            "name": "Palette & Palate: Art Meets Cooking Experience",
+                            "start_time": "2025-06-11 18:30:00",
+                            "end_time": "2025-06-11 20:30:00",
+                            "location": "The Creative Canvas Studio, Artisanal Lane, AgentsVille",
+                            "description": "Immerse yourself in a colorful evening where art and cooking blend together! At 'Palette & Palate,' participants will begin indoors at The Creative Canvas Studio with a guided session to paint their own culinary-inspired masterpiece. Afterwards, a local chef will lead an interactive cooking class, teaching you how to craft vibrant, edible works of art. Whether you're an art enthusiast, a food lover, or both, this creative night is perfect for socializing and expressing yourself through color and flavor! All materials and ingredients are provided. This event is held indoors and welcomes all experience levels in art and cooking.",
+                            "price": 25,
+                            "related_interests": [
+                                "art",
+                                "cooking"
+                            ]
+                        },
+                        "reasons_for_recommendation": [
+                            "Combines Yuri's cooking interest and Hiro's art interest",
+                            "Indoor evening activity ideal for partly cloudy weather"
+                        ]
+                    }
+                ]
+            },
+            {
+                "date": "2025-06-12",
+                "weather": {
+                    "temperature": 28.0,
+                    "temperature_unit": "Celsius",
+                    "condition": "thunderstorm"
+                },
+                "activity_recommendations": [
+                    {
+                        "activity": {
+                            "activity_id": "event-2025-06-12-1",
+                            "name": "Soundtrack Picnic: Lunchtime Movies & Melodies",
+                            "start_time": "2025-06-12 12:00:00",
+                            "end_time": "2025-06-12 13:30:00",
+                            "location": "Starlight Amphitheater, AgentsVille",
+                            "description": "Experience the magic of classic movie scenes paired with live music at the outdoor Starlight Amphitheater! Bring your lunch and relax on the lawn as musicians perform iconic film soundtracks while selected clips light up our open-air screen. Perfect for movie buffs and music lovers alike, this engaging event celebrates both arts in a sunny lunchtime setting. In case of rain, the event will move indoors to the adjacent Harmony Hall. Come for the tunes, stay for the cinematic wonder!",
+                            "price": 15,
+                            "related_interests": [
+                                "movies",
+                                "music"
+                            ]
+                        },
+                        "reasons_for_recommendation": [
+                            "Suitable for Hiro's music interest with indoor backup due to thunderstorm",
+                            "Weather-safe indoor option available"
+                        ]
+                    },
+                    {
+                        "activity": {
+                            "activity_id": "event-2025-06-12-3",
+                            "name": "Tech & Film Fusion Night",
+                            "start_time": "2025-06-12 19:00:00",
+                            "end_time": "2025-06-12 21:30:00",
+                            "location": "Virtual Reality Theater, Silicon Plaza, AgentsVille",
+                            "description": "Dive into an immersive evening where the magic of movies meets the latest in technology! Join fellow movie buffs and tech enthusiasts for a special screening of cutting-edge sci-fi short films, followed by an interactive panel with local filmmakers and VR technologists. Experience the future of entertainment and discuss how technology is transforming the world of cinema. This exciting, indoor event at the Virtual Reality Theater is perfect for anyone interested in technology and movies.",
+                            "price": 15,
+                            "related_interests": [
+                                "technology",
+                                "movies"
+                            ]
+                        },
+                        "reasons_for_recommendation": [
+                            "Matches Yuri's technology interest and includes movies",
+                            "Indoor evening event ideal for thunderstorm weather"
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+}

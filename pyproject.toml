@@ -1,0 +1,19 @@
+[project]
+name = "itinerary-planner-app"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "gradio>=5.40.0",
+    "ipykernel>=6.30.1",
+    "ipywidgets>=8.1.7",
+    "json-repair>=0.48.0",
+    "numexpr>=2.11.0",
+    "openai>=1.98.0",
+    "pandas>=2.3.1",
+    "pydantic>=2.11.7",
+    "python-dotenv>=1.1.1",
+    "rich>=14.1.0",
+    "streamlit>=1.47.1",
+]
