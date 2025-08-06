@@ -1,6 +1,6 @@
 # PROJECT SUMMARY
 
-Implementation of AI agent "travel planner" assignment for UDACITY "AGENTIC AI" Nanodegree - Module 1
+Implementation of multi-agent "travel planner" assignment for [UDACITY "AGENTIC AI" Nanodegree](https://www.udacity.com/course/agentic-ai--nd900) - Module 1
 
 # PROJECT DESCRIPTION
 
@@ -23,3 +23,4 @@ This second agent operates using ReACT prompting (Think/Act/observation cycles).
 - run the agents using main.py script in /src
 - Mock-up data can be found in utils/data.py
 - 
+
