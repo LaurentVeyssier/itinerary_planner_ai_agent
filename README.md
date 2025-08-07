@@ -21,9 +21,10 @@ Then the app must revisit the initial schedule to incorporate the feedback of th
   `uv init` then `uv sync` from the project folder
 - Populate an OpenAI API key in the .env file
 - Run the agents using main.py script in /src
-  `ùv run python src/main.py` from the project folder
+  `uv run python src/main.py` from the project folder
 - Mock-up data can be found in utils/data.py
 - Travel itineraries are saved to the 'outputs' folder
 - The ReACT agent usually solves the case in less than 10 steps.
+
 
 
